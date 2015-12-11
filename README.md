@@ -1,7 +1,12 @@
 # Note Ubuntu
 
 * Plugins
-Open vim and run
+Here i use [vundle](https://github.com/VundleVim/Vundle.vim).
+```php
+git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+```
+More detail at [Vundle](https://github.com/VundleVim/Vundle.vim)
+Then open vim and run:
 ```php
 :PluginInstall
 ```
