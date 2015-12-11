@@ -25,4 +25,4 @@ sudo apt-get install vim-nox
 
 * Powerline
 For nice appereance
-Follow powerline installation at https://powerline.readthedocs.org/en/master/installation/linux.html
+Follow powerline installation at [Powerline Linux guide](https://powerline.readthedocs.org/en/master/installation/linux.html)
