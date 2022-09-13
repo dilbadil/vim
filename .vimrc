@@ -304,4 +304,3 @@ function! Class()
 
     exec 'normal Ipublic function __construct() {}'
 endfunction    
-n
